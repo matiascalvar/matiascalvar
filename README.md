@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **a Soy Henry Individual Project**
+- 🔭 I’m currently working on **a Soy Henry Grupal Project**
 
 - 🌱 I’m currently learning **Full Stack Development with React and Node.js**
 
