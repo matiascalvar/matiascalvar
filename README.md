@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
-- 🔭 I’m currently working on **a Soy Henry Grupal Project** a SPA with PERN Stack
+- 🔭 I’m currently working on **a Soy Henry Grupal Project**, a SPA with PERN Stack
 
 - 🌱 I’m currently learning **Full Stack Development with React and Node.js**
 
