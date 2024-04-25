@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
-- 🔭 I’m currently working as JavaScript Full Stack Instructor in a bootcamp
+- 🔭 I’m currently working as a Front End Developer
 
 - 👯 I’m looking to collaborate on **any project with a positive impact on everyone's life**
 
