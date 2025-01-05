@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **any project with a positive impact on everyone's life**
 
-- 👨‍💻 All of my projects are available at [https://matiascalvar.com](https://matiascalvar.com)
+- 👨‍💻 All of my projects are available at [matiascalvar.com](https://matiascalvar.com)
 
-- 📫 How to reach me [https://www.linkedin.com/in/matiascalvar/](https://www.linkedin.com/in/matiascalvar/)
+- 📫 How to reach me [www.linkedin.com/in/matiascalvar/](https://www.linkedin.com/in/matiascalvar/)
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
