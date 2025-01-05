@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
-<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 - 🔭 I’m currently working as a Front End Developer
 
